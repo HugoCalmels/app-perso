@@ -1,0 +1,10 @@
+
+
+.home-page-rendering {
+  display: flex;
+  width: 100%;
+}
+
+.feed {
+  flex: 9;
+}
